@@ -28,12 +28,12 @@ You can click the Preview link to take a look at your changes.
 - 🤓 I’m currently learning how to change positions and do vibrato (violin, told ya), also I'm learning algorithm, js and python
 
 ##
+### Minhas estatísticas e linguagens mais usadas 👀
 
 <div align="center">
   <a href="https://github.com/B3cky12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B3cky12&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3cky12&layout=compact&langs_count=7&theme=radical">
-  <img align="right" alt="B3cky-gif" style="border-radius:50px;" src="https://im.ezgif.com/tmp/ezgif-1-f96c0bddcd.png">
 </div>
   
   <!--- Me pics for the gif: 
@@ -45,8 +45,10 @@ You can click the Preview link to take a look at your changes.
 --->
   
   ##
+  ### O que já mexi (pelo menos uma vez na vida 😜 )
   
 <div style="display: inline_block"><br>
+  <img align="right" alt="B3cky-gif" style="border-radius:50px;" src="https://im.ezgif.com/tmp/ezgif-1-f96c0bddcd.png">
   <img align="center" alt="B3cky-VSCode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="B3cky-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="B3cky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -58,7 +60,8 @@ You can click the Preview link to take a look at your changes.
 </div>
   
   ##
- 
+ ### Social medias 😘
+  
 <div> 
   <a href="https://www.youtube.com/channel/UCE-iTADrsRW1JTNDE_M3UUw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/e_bekinha12/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
