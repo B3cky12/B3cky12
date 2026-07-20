@@ -21,8 +21,6 @@ P.S.: Portuguese is my native language, but I'm eager to practice my english any
 - 👀 Interesses pessoais são crochetar, ler, journetar e criar experiências.
 - 🤓 Atualmente estou focando meu aprendisado em python, parsing, e, no geral, como ser uma Dev melhor.
 
-P.S.: Português é minha lingua nativa, but estou animada pra praticar o inglês a qualquer oportunidade :)
-
 <!--- inglês --->
   ## Hiya! I'm Ellen 💛
 ###### P.S.: Portuguese is my native language, but I'm eager to practice my english anytime :)
