@@ -15,7 +15,7 @@ P.S.: Portuguese is my native language, but I'm eager to practice my english any
 --->
 
 <!--- português --->
-# Oie! Sou Ellen Rebeca 💛
+  ## Oie! Sou Ellen 💛
 
 - 🧮 Cursando Ciência da Computação, foco no Fullstack, mas prefiro Backend
 - 👀 Interesses pessoais são crochetar, ler, journetar e criar experiências.
@@ -24,7 +24,7 @@ P.S.: Portuguese is my native language, but I'm eager to practice my english any
 P.S.: Português é minha lingua nativa, but estou animada pra praticar o inglês a qualquer oportunidade :)
 
 <!--- inglês --->
-# Hiya! I'm Ellen Rebeca 💛
+  ## Hiya! I'm Ellen 💛
 ###### P.S.: Portuguese is my native language, but I'm eager to practice my english anytime :)
 
 - 🧮 Computer Science Student, Fullstack focused, but I kinda prefer Backend
@@ -67,7 +67,7 @@ P.S.: Português é minha lingua nativa, but estou animada pra praticar o inglê
 </div>
   
   ##
- #### MyCodePen
+ ### MyCodePen
   
   <a href= "https://codepen.io/B3ckyA" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   
